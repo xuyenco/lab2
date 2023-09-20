@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\web__TH__1.props" />
+</Project>
